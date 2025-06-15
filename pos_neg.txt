@@ -1,0 +1,4 @@
+a.tif negative
+b.tif positive
+c.tif positive
+d.tif positive
